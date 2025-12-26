@@ -1,38 +1,38 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"name": "Confederacy of Veloure",
+		"leaderName": "Protector of the Confederacy",
+		"adjective": ["Velourin"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Religious",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "I am the Protector of the Confederacy, guiding hand of the Velourin Peoples",
+		"startIntroPart2": "Our ports bustle with commerce and our churches echo with prayers. Tell us - what do your people have to offer?",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "A Hundred Cities rally against you! Prepare for your demise!",
+		"attacked": "Don't think we will let this go unanswered! ",
+		"defeated": "God Save Veloure.",
+		"introduction": "Veloure's strength is found in its Shipbuilding and Piety. Her Boats allow her to reach distant shores, and her faith keeps her widespread cities together",
 		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"neutralHello": "Welcome! Tell us - What brings you here?",
+		"neutralLetsHearIt": ["Go on.","Continue","Say more"],
+		"neutralNo": ["We must decline.","No, thank you","We refuse."],
+		"neutralYes": ["Excellent!.","Of course!","Very nice!"],
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"hateHello": "You are not welcome here",
+		"hateLetsHearIt": ["Speak!","What do you want?","Carry on"],
+		"hateNo": ["No wind can stir that Sail!","Those anchors will never weigh!","Is your mind upside down right now?"],
+		"hateYes": ["That passes.","We'll accept for now","Very well..."],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "The winds shall carry us home for now. Farewell",
+		"tradeRequest": "We stretch out our arm, and offer you this. Let this trade be another source of prosperity for our Peoples!",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
+		"outerColor": [0,32,96],
+		"innerColor": [184,115,51],
 		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"cities": ["Occumar","Premiye","Veidel","Ferre","Collus","Maceria","Gratieme","Aerule","Piscis",
+			"Nemo","Calamaris","Bangus","Rhagge","Qallou","Montazure","Brivelle","Bryou","Dolmar","Welle",
+			"Salborne","Vienon","Graville","Arrou","Deulieu","Diyeumont","Elevia","Lormont","Azumar","Quelport",
+			"Manamar","Mahmont","Disle","Cuprumar","Plumont","Cumare"]
 	}
 ]
