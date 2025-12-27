@@ -6,13 +6,13 @@
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Religious",
 		
-		"startIntroPart1": "I am the Protector of the Confederacy, guiding hand of the Velourin Peoples",
-		"startIntroPart2": "Our ports bustle with commerce and our churches echo with prayers. Tell us - what do your people have to offer?",
+		"startIntroPart1": "Overview",
+		"startIntroPart2": "Call to Arms",
 		
 		"declaringWar": "A Hundred Cities rally against you! Prepare for your demise!",
 		"attacked": "Don't think we will let this go unanswered! ",
 		"defeated": "God Save Veloure.",
-		"introduction": "Veloure's strength is found in its Shipbuilding and Piety. Her Boats allow her to reach distant shores, and her faith keeps her widespread cities together",
+		"introduction": "I am the Protector of the Confederacy, guiding hand of the Velourin Peoples. Our ports bustle with commerce and our churches echo with prayers. Tell us - what do your people have to offer? ",
 		
 		"neutralHello": "Welcome! Tell us - What brings you here?",
 		"neutralLetsHearIt": ["Go on.","Continue","Say more"],
