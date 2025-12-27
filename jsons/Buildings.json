@@ -30,6 +30,24 @@
   "description": "Velourin shipyards anchor trade, faith, and naval power. Their docks feed the city and launch fleets with disciplined efficiency."
 }
 
+	{
+  "name": "Sea Cathedral",
+  "replaces": "Temple",
+  "uniqueTo": "Veloure",
 
+  "cost": 140,
+  "maintenance": 5,
+  "hurryCostModifier": 12,
+
+  "requiredTech": "Theology",
+  "requiredBuilding": "Shrine",
+
+  "uniques": [
+    "Must be built in a coastal city",
+    "+2 Faith",
+    "+2 Culture",
+    "+1 Faith from Water resource tiles worked by this city"
+  ]
+}
 
 ]
