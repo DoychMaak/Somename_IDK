@@ -40,7 +40,7 @@
   "hurryCostModifier": 12,
 
   "requiredTech": "Theology",
-  "requiredBuilding": "Shrine",
+  
 
   "uniques": [
     "Must be built in a coastal city",
