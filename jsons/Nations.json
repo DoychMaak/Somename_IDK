@@ -4,10 +4,10 @@
 		"leaderName": "Protector Azule of the Confederacy",
 		"adjective": ["Velourin"],
 		"startBias": ["Coast"],
-		"preferredVictoryType": "Religious",
+		"preferredVictoryType": "Diplomatic",
 		
-		"startIntroPart1": "Overview",
-		"startIntroPart2": "Call to Arms",
+		"startIntroPart1": "Persistent Veloure, your peoples became Masters of the Coasts and Seas. They used that Mastery to carve out an Empire that at one point, could reach out her hand and taste the stars. However, setbacks and stagnation would spell the end of this Plucky Upstart.",
+		"startIntroPart2": "Protector Azule, you and your peoples stand ready at the braces once more. Will you manage to build an empire that can reach the stars? How will your empire shine through the ages of History?",
 		
 		"declaringWar": "A Hundred Cities rally against you! Prepare for your demise!",
 		"attacked": "Don't think we will let this go unanswered! ",
@@ -29,7 +29,8 @@
 
 		"outerColor": [0,32,96],
 		"innerColor": [184,115,51],
-		"unique": "MANIFEST_DESTINY",
+		"uniqueName": "Confederal Sponsorship"
+		"unique": "",
 		"cities": ["Occumar","Premiye","Veidel","Ferre","Collus","Maceria","Gratieme","Aerule","Piscis",
 			"Nemo","Calamaris","Bangus","Rhagge","Qallou","Montazure","Brivelle","Bryou","Dolmar","Welle",
 			"Salborne","Vienon","Graville","Arrou","Deulieu","Diyeumont","Elevia","Lormont","Azumar","Quelport",
