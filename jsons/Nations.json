@@ -29,8 +29,8 @@
 
 		"outerColor": [0,32,96],
 		"innerColor": [184,115,51],
-		"uniqueName": "Confederal Sponsorship"
-		"unique": "",
+		"uniqueName": "Confessional Merchant Confederacy"
+		"uniques": ["[+3 Faith][in all cities]<when at war>", "[+1 Gold]","[-75]% Unhappiness from [Population] [in all cities]"}
 		"cities": ["Occumar","Premiye","Veidel","Ferre","Collus","Maceria","Gratieme","Aerule","Piscis",
 			"Nemo","Calamaris","Bangus","Rhagge","Qallou","Montazure","Brivelle","Bryou","Dolmar","Welle",
 			"Salborne","Vienon","Graville","Arrou","Deulieu","Diyeumont","Elevia","Lormont","Azumar","Quelport",
