@@ -1,1 +1,15 @@
-
+[
+{
+		"name": "Funky Frigate",
+		"unitType": "Ranged Water",
+		"movement": 6,
+		"strength": 25,
+		"rangedStrength": 15,
+		"cost": 170,
+		"requiredTech": "Navigation",
+		"obsoleteTech": "Combustion",
+		"upgradesTo": "Destroyer",
+		"hurryCostModifier": 25,
+		"attackSound": "shipCannonVolley"
+}
+]
