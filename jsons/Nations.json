@@ -31,10 +31,10 @@
 		"innerColor": [184,115,51],
 		"uniqueName": "Confessional Merchant Confederacy",
 		"uniques": [
-  "[+3 Faith][in all cities]<when at war>",
-  "[+15% Combat Strength][on friendly tiles]<when at war>",
-  "[+3 Gold][for each worked Luxury Resource]",
-  "[+2 Happiness][in all cities]"
+  "[+3 Faith] [in all cities]<when at war>",
+  "[+15% Combat Strength] [on friendly tiles]<when at war>",
+  "[+3 Gold] [for each worked Luxury Resource]",
+  "[+2 Happiness] [in all cities]"
 ]
 ,
 		"cities": ["Rachbryn","Occumar","Veidel","Ferre","Collus","Maceria","Gratieme","Aerule","Piscis",
