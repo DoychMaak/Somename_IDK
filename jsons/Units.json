@@ -1,10 +1,12 @@
 [
 {
 		"name": "Light Frigate",
+		"uniqueTo": "Veloure",
+		"replaces": "Frigate",
 		"unitType": "Ranged Water",
 		"movement": 6,
 		"strength": 25,
-		"rangedStrength": 15,
+		"rangedStrength": 20,
 		"cost": 170,
 		"requiredTech": "Navigation",
 		"obsoleteTech": "Combustion",
