@@ -32,8 +32,8 @@
 		
 		"uniqueName": "Velourin Sponsor System"
 		"uniques":[
-			"[+1 Gold] from every [Luxury resource]",
-			"[+1 Gold] from every [Strategic resource]"
+			"[+1 Gold] from every [{Luxury resource} {Strategic resource}]",
+			
 		]
 ,
 		"cities": ["Rachbryn","Occumar","Veidel","Ferre","Collus","Maceria","Gratieme","Aerule","Piscis",
