@@ -1,6 +1,8 @@
 [
 {
 		"name": "Monastic Harbours",
+		"uniqueTo": "Veloure",
+		"replaces": "Harbor",
 		"cost": 140,
 		"maintenance": 4,
 		"hurryCostModifier": 20,
