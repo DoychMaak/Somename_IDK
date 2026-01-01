@@ -29,13 +29,8 @@
 
 		"outerColor": [0,32,96],
 		"innerColor": [184,115,51],
-		"uniqueName": "The Confessional Confederacy",
-		"uniques": [
-  "[+3 Faith] [in all cities]<when at war>",
-  "[3] additional attacks per turn<when defending>",
-  "[+1 Happiness] <upon founding a city>"
-		]
-		"uniqueName": "Merchant Sponsor System"
+		
+		"uniqueName": "Velourin Sponsor System"
 		"uniques":[
 			"[+1 Gold] from every [Luxury resource]",
 			"[+1 Gold] from every [Strategic resource]"
